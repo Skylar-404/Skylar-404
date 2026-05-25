@@ -26,17 +26,17 @@ Role: Junior Developer
 Location: Cambodia
 Passion:
   - Web Development
-  - Artificial Intelligence
   - Prompt Engineering
   - Telegram Bot Development
 Currently Working On:
   - Modular Web Applications
-  - AI Tools & Automation
   - Telegram Bots
 Learning:
   - Advanced Backend Architecture
   - AI Integrations
-  - LLM Prompt Engineering
+  - Database Developer
+  - Database Management
+  - Database Administrator
 ```
 
 ---
@@ -68,7 +68,7 @@ Learning:
 
 ## ⚙️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 
 </div>
 
