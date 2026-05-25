@@ -80,12 +80,12 @@ Learning:
 
 | Skill | Level |
 |------|------|
-| PHP | ██████████ 90% |
-| Python | ████████░░ 80% |
-| Laravel | ████████░░ 80% |
-| Django | ███████░░░ 70% |
-| MySQL | ████████░░ 85% |
-| Linux Server Management | ███████░░░ 75% |
+| PHP | █████░░░░░ 50% |
+| Python | █████░░░░░ 50% |
+| Laravel | █████░░░░░ 50% |
+| Django | █████░░░░░ 50% |
+| MySQL | █████░░░░░ 50% |
+| Linux Server Management | █████░░░░░ 50% |
 | Prompt Engineering | ████████░░ 80% |
 | AI Workflow Integration | ███████░░░ 70% |
 
