@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:2563eb&text=T.%20Bunleap&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20•%20AI%20Enthusiast%20•%20Prompt%20Engineer&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:2563eb&text=T.%20Bunleap&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20AI%20Enthusiast%20•%20Prompt%20Engineer&descAlignY=58" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Modular+Web+Applications;Creating+Telegram+Bots;Exploring+Artificial+Intelligence;Learning+Something+New+Every+Day" />
