@@ -148,22 +148,6 @@ print(me.current_focus())
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Skylar-404&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skylar-404&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
----
-
 # 🏆 Achievements & Goals
 
 - 🚀 Building real-world production-ready applications
