@@ -18,7 +18,7 @@
 
 ---
 
-# 👋 Chat, it’s Skylar here. Sigma energy, rizz unlocked, skibidi brainrot certified.
+# 👋 Chat, I'm Skylar. Sigma energy, skibidi brainrot certified.
 
 ```yaml
 Name: T. Bunleap
