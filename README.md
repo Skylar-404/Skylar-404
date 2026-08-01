@@ -117,23 +117,23 @@ print(me.current_focus())
 
 # 📂 Featured Projects
 
-## 🏨 Hotel Booking System
+## 🔧 Management System (Coming soon)
 
-> Modular hotel reservation system built with PHP & MySQL.
+> Built with PHP-Laravel.
 
 ### ✨ Features
-- Modular template architecture
-- Booking management system
-- Responsive UI design
-- Admin dashboard
-- Dynamic database integration
+- (Coming Soon)
+- (Coming Soon)
+- (Coming Soon)
+- (Coming Soon)
+- (Coming Soon)
 
 ### 🛠️ Tech Stack
-`PHP` `MySQL` `Bootstrap`
+`PHP` `MySQL` `Bootstrap` `Laravel`
 
 ---
 
-## 🎵 TaloMusic Bot
+## 🎵 Telegram Music Bot
 
 > Telegram bot for downloading and managing audio content.
 
