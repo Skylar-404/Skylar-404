@@ -18,7 +18,7 @@
 
 ---
 
-# 👋 Blud, I'm Skylar. Skibidi brainrot certified.
+# 👋 Blud, I'm Skylar.
 
 ```yaml
 Name: T. Bunleap
