@@ -35,11 +35,13 @@
 <div align="center">
 
 Languages & Frameworks
+<br>
 <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,supabase,react,boostrap" />
 
 <br>
 
 Tools & Platforms
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,redhat,vscode" />
 
 </div>
