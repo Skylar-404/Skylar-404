@@ -25,7 +25,6 @@
 - Passionate about building scalable and modular systems
 - Exploring Artificial Intelligence & Prompt Engineering
 - Learning by building real-world projects
-- Interested in backend development and automation
 - Enjoy working with Linux servers & deployment systems
 - Always improving my coding and problem-solving skills
 
@@ -37,14 +36,12 @@
 
 <div align="center">
 
-<h2>Languages & Frameworks</h2>
-
+<p>Languages & Frameworks</p>
 <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,react" />
 
 <br><br>
 
-<h2>Tools & Platforms</h2> 
-
+<p>Tools & Platforms</p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 
 </div>
