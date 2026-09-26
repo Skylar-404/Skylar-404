@@ -70,25 +70,21 @@
 
 ---
 
-# 🎯 Hobbies & Interests
+# 🎯 Interests
 
 <div align="center">
-
 🎵 Music • 💻 Coding • 🤖 AI Exploration • 📚 Self-Learning • 🛠️ Side Projects
 
-</div>
 
----
-<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Code;Learn;Build;Repeat" alt="Typing SVG" />
+
+
 
 <a href="mailto:skylarerror404@gmail.com">
   <img src="https://img.shields.io/badge/Email-skylarerror404%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Code;Learn;Build;Repeat" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:0ea5e9"/>
 
