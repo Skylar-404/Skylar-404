@@ -70,7 +70,7 @@
 
 ---
 
-# 🎯 Interests
+# Locked In
 
 <div align="center">
 🎵 Music • 💻 Coding • 🤖 AI Exploration • 📚 Self-Learning • 🛠️ Side Projects
