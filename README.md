@@ -34,7 +34,7 @@
 
 <div align="center">
 <p>Languages, Frameworks, Tools</p>
-<img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,supabase,react,boostrap,git,github,linux,ubuntu,redhat,vscode" />
+<img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,supabase,react,bootstrap,git,github,linux,ubuntu,redhat,vscode" />
 </div>
 ---
 
