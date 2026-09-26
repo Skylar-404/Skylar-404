@@ -50,7 +50,7 @@
 | Laravel | █████░░░░░ 50% |
 | MySQL | █████░░░░░ 50% |
 | Prompt Engineering | ████████░░ 80% |
-| VibeCode | ██████████ 100% |
+| Vibe Coding | ██████████ 100% |
 
 <br clear="right"/>
 
