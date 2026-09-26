@@ -18,7 +18,7 @@
 
 ---
 
-# 🚀 About Me
+# It's me
 
 <img align="right" alt="Coding" width="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpoemJteHRvN3VwZmV2NHVqZG00NHN6OXYzZDV0YzFxOWR0cjVoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfPE0x5gfa5ctKpph6/giphy.gif"/>
 
@@ -37,13 +37,13 @@
 
 <div align="center">
 
-## 💻 Languages & Frameworks
+# Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=php,python,laravel,django,mysql,html,css,bootstrap" />
 
 <br><br>
 
-## ⚙️ Tools & Platforms
+# Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 
@@ -51,7 +51,7 @@
 
 ---
 
-# 📊 Skill Bars
+# Skill Bars
 
 <div align="center">
 
