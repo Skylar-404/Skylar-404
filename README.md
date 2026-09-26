@@ -40,7 +40,7 @@
 <br>
 
 <p>Tools & Platforms</p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,redhat,vscode" />
 
 </div>
 
