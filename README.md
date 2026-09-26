@@ -34,12 +34,12 @@
 
 <div align="center">
 
-<p>Languages & Frameworks</p>
+Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,supabase,react,boostrap" />
 
 <br>
 
-<p>Tools & Platforms</p>
+Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,redhat,vscode" />
 
 </div>
