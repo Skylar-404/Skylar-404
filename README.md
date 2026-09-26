@@ -50,8 +50,6 @@
 
 # Skill Bars
 
-<div align="left">
-
 | Skill | Level |
 |------|------|
 | PHP | █████░░░░░ 50% |
@@ -61,11 +59,7 @@
 | Prompt Engineering | ████████░░ 80% |
 | VibeCode | ██████████ 100% |
 
-</div>
-
-<div align="right">
 <img align="right" alt="Coding" width="320" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1ybjlka3Vjc2FiNjVpdmgwMHByM3Fkd280eWRrbGR5NjVxZmp5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zmamokHAKhDiVl8dN/giphy.gif"/>
-</div>
 
 ---
 
