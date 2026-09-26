@@ -37,9 +37,9 @@
 <div align="center">
 
 <p>Languages & Frameworks</p>
-<img src="https://skillicons.dev/icons?i=python,php,laravel,dotnet,mysql,supabase,react,boostrap" />
+<img src="https://skillicons.dev/icons?i=python,php,django,laravel,dotnet,mysql,supabase,react,boostrap" />
 
-<br><br>
+<br>
 
 <p>Tools & Platforms</p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode" />
@@ -50,7 +50,7 @@
 
 # Skill Bars
 
-<img align="right" alt="Coding" width="320" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1ybjlka3Vjc2FiNjVpdmgwMHByM3Fkd280eWRrbGR5NjVxZmp5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zmamokHAKhDiVl8dN/giphy.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1ybjlka3Vjc2FiNjVpdmgwMHByM3Fkd280eWRrbGR5NjVxZmp5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zmamokHAKhDiVl8dN/giphy.gif"/>
 
 | Skill | Level |
 |------|------|
