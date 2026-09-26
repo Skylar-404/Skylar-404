@@ -37,12 +37,12 @@
 <div align="center">
 
 <p>Languages & Frameworks</p>
-<img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,react" />
+<img src="https://skillicons.dev/icons?i=python,php,cs,laravel,mysql,react,dotnet" />
 
 <br><br>
 
 <p>Tools & Platforms</p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,ubuntu" />
 
 </div>
 
@@ -57,11 +57,9 @@
 | PHP | █████░░░░░ 50% |
 | Python | █████░░░░░ 50% |
 | Laravel | █████░░░░░ 50% |
-| Django | █████░░░░░ 50% |
 | MySQL | █████░░░░░ 50% |
-| Linux Server Management | █████░░░░░ 50% |
 | Prompt Engineering | ████████░░ 80% |
-| AI Workflow Integration | ███████░░░ 70% |
+| VibeCode | ██████████ 100% |
 
 </div>
 
