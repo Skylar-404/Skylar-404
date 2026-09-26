@@ -84,18 +84,6 @@
 
 <div align="center">
 
-<!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Cloud+Architect" alt="Typing SVG" />
-
-<!-- Contribution Snake (Generated via GitHub Action) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
 <a href="mailto:skylarerror404@gmail.com">
   <img src="https://img.shields.io/badge/Email-skylarerror404%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -106,7 +94,7 @@
 
 <div align="center">
 
-### ⭐ Code • Learn • Build • Repeat
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Code;Learn+Build;Repeat" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:0ea5e9"/>
 
