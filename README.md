@@ -1,5 +1,3 @@
-<!-- ========================= HEADER ========================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:2563eb&text=Skylar%20T.&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Extraordinary%20things%20shouldn't%20be%20easy%20to%20do.&descAlignY=58" />
@@ -37,7 +35,7 @@
 <div align="center">
 
 <p>Languages & Frameworks</p>
-<img src="https://skillicons.dev/icons?i=python,php,django,laravel,dotnet,mysql,supabase,react,boostrap" />
+<img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,supabase,react,boostrap" />
 
 <br>
 
