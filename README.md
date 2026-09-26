@@ -39,7 +39,7 @@
 
 # Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=php,python,laravel,django,mysql,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,react" />
 
 <br><br>
 
