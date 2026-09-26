@@ -18,39 +18,16 @@
 
 ---
 
-# 👋 Blud, I'm Skylar.
-
-```yaml
-Name: T. Bunleap
-Role: Junior Developer
-Location: Cambodia
-Passion:
-  - Web Development
-  - Prompt Engineering
-  - Telegram Bot Development
-Currently Working On:
-  - Modular Web Applications
-  - Telegram Bots
-Learning:
-  - Advanced Backend Architecture
-  - AI Integrations
-  - Database Developer
-  - Database Management
-  - Database Administrator
-```
-
----
-
 # 🚀 About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 💻 Passionate about building scalable and modular systems
-- 🤖 Exploring Artificial Intelligence & Prompt Engineering
-- 🧠 Learning by building real-world projects
-- 🚀 Interested in backend development and automation
-- ⚡ Enjoy working with Linux servers & deployment systems
-- 🌱 Always improving my coding and problem-solving skills
+- Passionate about building scalable and modular systems
+- Exploring Artificial Intelligence & Prompt Engineering
+- Learning by building real-world projects
+- Interested in backend development and automation
+- Enjoy working with Linux servers & deployment systems
+- Always improving my coding and problem-solving skills
 
 <br clear="right"/>
 
@@ -90,71 +67,6 @@ Learning:
 | AI Workflow Integration | ███████░░░ 70% |
 
 </div>
-
----
-
-# 🤖 AI & Prompt Engineering
-
-```python
-class Bunleap:
-    def __init__(self):
-        self.interests = [
-            "Artificial Intelligence",
-            "Prompt Engineering",
-            "LLM Workflows",
-            "Automation",
-            "Telegram Bots"
-        ]
-
-    def current_focus(self):
-        return "Building AI-powered applications and modular systems"
-
-me = Bunleap()
-print(me.current_focus())
-```
-
----
-
-# 📂 Featured Projects
-
-## 🔧 Management System (Coming soon)
-
-> Built with PHP-Laravel.
-
-### ✨ Features
-- (Coming Soon)
-- (Coming Soon)
-- (Coming Soon)
-- (Coming Soon)
-- (Coming Soon)
-
-### 🛠️ Tech Stack
-`PHP` `MySQL` `Bootstrap` `Laravel`
-
----
-
-## 🎵 Telegram Music Bot
-
-> Telegram bot for downloading and managing audio content.
-
-### ✨ Features
-- Telegram API integration
-- Audio downloading support
-- Fast response handling
-- Automated workflow system
-
-### 🛠️ Tech Stack
-`Python` `Telegram Bot API`
-
----
-
-# 🏆 Achievements & Goals
-
-- 🚀 Building real-world production-ready applications
-- 🤖 Learning AI & LLM integrations
-- 🧠 Improving software architecture skills
-- 🌐 Exploring open-source technologies
-- 📚 Becoming a Full Stack AI Developer
 
 ---
 
