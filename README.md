@@ -20,7 +20,7 @@
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpoemJteHRvN3VwZmV2NHVqZG00NHN6OXYzZDV0YzFxOWR0cjVoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfPE0x5gfa5ctKpph6/giphy.gif"/>
 
 - Passionate about building scalable and modular systems
 - Exploring Artificial Intelligence & Prompt Engineering
