@@ -20,6 +20,12 @@
 
 # 🚀 About Me
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Skylar/404/output/github-contribution-grid-snake.svg">
+</p>
+
+
+
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - Passionate about building scalable and modular systems
