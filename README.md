@@ -33,17 +33,17 @@
 
 ---
 
-# 🧠 Tech Stack
+# Tech Stack
 
 <div align="center">
 
-# Languages & Frameworks
+<h2>Languages & Frameworks</h2>
 
 <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,react" />
 
 <br><br>
 
-# Tools & Platforms
+<h2>Tools & Platforms</h2> 
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 
