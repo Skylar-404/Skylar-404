@@ -79,9 +79,6 @@
 </div>
 
 ---
-
-# 📫 Connect With Me
-
 <div align="center">
 
 <a href="mailto:skylarerror404@gmail.com">
@@ -89,12 +86,9 @@
 </a>
 
 </div>
-
----
-
 <div align="center">
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Code;Learn+Build;Repeat" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Code;Learn;Build;Repeat" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:0ea5e9"/>
 
