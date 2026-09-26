@@ -37,8 +37,6 @@
 <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,supabase,react,boostrap" />
 </div>
 
-<br>
-
 <div align="center">
 <p>Tools & Platforms</p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,redhat,vscode" />
